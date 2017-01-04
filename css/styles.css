@@ -1,0 +1,58 @@
+.band1 {
+  float: left;
+}
+
+.img-left {
+  width: 40%;
+  height: auto;
+  margin-left: 0%;
+  margin-right: 60%;
+  border: 2px solid green;
+}
+
+.band-info-left {
+  float: left;
+  width: 30%;
+  margin-left: 0%;
+  border: 2px solid blue;
+}
+
+.tour-left {
+  float: right;
+  width: 30%;
+  margin-right: 0%;
+  border: 2px solid red;
+}
+
+
+
+
+
+.band2 {
+  float: right;
+  font-size: 1.5rem;
+}
+
+
+.band-info-right {
+  float: right;
+  width: 75%;
+
+}
+
+.tour-right {
+  float: left;
+  width: 20%;
+
+
+}
+.img-right {
+  width: 33%;
+}
+.fancy {
+  color: red;
+  font-style: italic;
+}
+body {
+  background-color: white;
+}
